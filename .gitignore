@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.pytest_cache
+.gitattributes
+!*.zip
+#adding files to be ignored
+bom.movie_gross.csv
+im.db
+im.db.zip.sqlite3
