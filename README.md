@@ -29,16 +29,16 @@ SQLite
 
 ### RECOMMENDATIONS
 #### 1-Movie genre they should produce
-<img src="genre.png"/>
+<img src="/image/genre.png"/>
 * Microsoft should focus on producing drama, documentary or comedy movie genre as they are the most popular genres
 
 
 #### 2- leading studios in the market
-<img src="studio.png"/>
+<img src="/image/studio.png"/>
 * Microsoft should research more on IFC to learn more on how they produce, edit and market their movies
 
 #### 3- Best Movie writers
-<img src="writers.png"/>
+<img src="/image/writers.png"/>
 * Microsoft should seek the services of Writer coded NM0000636 as he is the top ranking writer in ratings and movie produced
 
 
