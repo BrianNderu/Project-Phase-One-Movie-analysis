@@ -41,7 +41,7 @@ SQLite
 <img src="/image/writers.png"/>
 * Microsoft should seek the services of Writer coded NM0000636 as he is the top ranking writer in ratings and movie produced
 
-
+for more of the project you can find it on these [student.ipynb file](https://github.com/BrianNderu/Project-Phase-One-Movie-analysis/blob/main/student.ipynb) and also a [presentation.pdf](https://github.com/BrianNderu/Project-Phase-One-Movie-analysis/blob/main/MICROSOFT%20MOVIE%20STUDIO%20Project%20phase%201.pdf)
 
 
 
